@@ -3,3 +3,6 @@
 {"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"8.995\"}","timestamp":"2025-10-23T17:49:37.767Z"}
 {"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"0.864\"}","timestamp":"2025-10-23T17:49:45.156Z"}
 {"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"0.945\"}","timestamp":"2025-10-23T17:49:46.049Z"}
+{"level":"info","message":"Server started on port 3002","timestamp":"2025-10-23T17:53:06.440Z"}
+{"level":"info","message":"A POST request is made for a single letter","timestamp":"2025-10-23T17:53:10.590Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"8.348\"}","timestamp":"2025-10-23T17:53:10.601Z"}
