@@ -50,6 +50,7 @@ app.post("/letters", (req, res) => {
   const firstLetter = letter[0];
   const nextId = { id: id++, firstLetter };
   alphabeticals.push(nextId);
+  logger.info("A POST request is made for a single letter")
   res.status(200).send(nextId);
 });
 

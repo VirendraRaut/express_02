@@ -1,2 +1,5 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 3002","timestamp":"2025-10-23T17:47:38.369Z"}
 {"level":"info","message":"Server started on port 3002","timestamp":"2025-10-23T17:47:52.706Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"8.995\"}","timestamp":"2025-10-23T17:49:37.767Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"0.864\"}","timestamp":"2025-10-23T17:49:45.156Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/letters/\",\"status\":\"200\",\"responseTime\":\"0.945\"}","timestamp":"2025-10-23T17:49:46.049Z"}
